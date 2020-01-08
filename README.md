@@ -1,2 +1,2 @@
-# MachineLearning IIT Kanpur Training
+# Machine Learning Training at IIT Kanpur 
 Practicle
